@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hi, I'm Namia-A</h1>
 
 <p><a href="https://github.com/Namia-A">Home</a> •
-<a href="https://mkzh.namia.eu.org">Blog</a> •
 <a href="https://t.me/+LPeqwOcUjk40ZjRl">Telegram</a></p>
 
 <!--<p><img alt="Counter" src="https://count.koalarong.com/get/@Namia-A?theme=asoul"/>  </p>-->
