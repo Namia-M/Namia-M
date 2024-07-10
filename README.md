@@ -24,7 +24,7 @@
     </a>
      
 </p>
-                                 主着手于OpenWrt-X和Cloudflare-ip
+
 <p align="center">
     <a href="https://github.com/Namia-A/OpenWrt-X">
       <img alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Namia-A&layout=compact" />
